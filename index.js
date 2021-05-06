@@ -1,3 +1,3 @@
 // Write your code here!
 
-main.removeChild('main');
+document.removeChild('main#main');
